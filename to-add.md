@@ -10,5 +10,6 @@
 - media control (of connected smartphone)
 - wired tethering iPhone
 - browser :D
+- calbration suport for power meter
 - 
 
