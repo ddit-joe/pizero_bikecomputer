@@ -18,4 +18,4 @@
 - dashcam (+ overlay)
 - button control
 - send to smartphone (telegram?)
-- 
+- nfc sensor to reterminal
