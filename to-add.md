@@ -11,5 +11,5 @@
 - wired tethering iPhone
 - browser :D
 - calbration suport for power meter
-- 
+- support for sensors in ReTerminal
 
