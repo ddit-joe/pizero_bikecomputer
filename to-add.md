@@ -15,4 +15,5 @@
 - auto upload
 - auto start on NFC tag?
 - garmin radar
-- 
+- dashcam (+ overlay)
+- button control
