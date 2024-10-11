@@ -14,4 +14,5 @@
 - support for sensors in ReTerminal
 - auto upload
 - auto start on NFC tag?
+- garmin radar
 - 
