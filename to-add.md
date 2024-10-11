@@ -2,7 +2,7 @@
 - GPS data from nRF9151
 - LTE-M from nRF9151
 - CAN-Bus integration
-- shift control
+- shift control (mit layover)
 - carplay (for the lolz)
 - Home Assistant?
 - light control
@@ -12,4 +12,6 @@
 - browser :D
 - calbration suport for power meter
 - support for sensors in ReTerminal
-
+- auto upload
+- auto start on NFC tag?
+- 
