@@ -4,4 +4,10 @@
 - CAN-Bus integration
 - carplay (for the lolz)
 - Home Assistant?
+- light control
+- blinker
+- media control (of connected smartphone)
+- wired tethering iPhone
+- browser :D
 - 
+
