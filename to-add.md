@@ -17,3 +17,5 @@
 - garmin radar
 - dashcam (+ overlay)
 - button control
+- send to smartphone (telegram?)
+- 
